@@ -1,4 +1,12 @@
 # CPE 315 Lab 1 -- Piku
+* Julian Tan
+* Complete
+* gcc -o piku piku.s
+* ./piku
+
+
+
+
 
 ## Things to include in your README
 
